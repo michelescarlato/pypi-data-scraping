@@ -1,1 +1,1 @@
-# pypi-data-scrapling
+# pypi-data-scraping
